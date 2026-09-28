@@ -1,0 +1,44 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Tooling
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Third-party assets that may not be redistributed (see README "에셋 준비")
+# - Malgun Gothic (Microsoft) font and its generated TMP SDF atlas
+/Assets/Fonts/MalgunGothic*
+# - Mixamo character models, textures, animations
+/Assets/Character/Ch01/
+/Assets/Character/Ch01.meta
+/Assets/Character/Ch22/
+/Assets/Character/Ch22.meta
+/Assets/Character/Ch33/
+/Assets/Character/Ch33.meta
